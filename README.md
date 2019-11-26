@@ -2,7 +2,7 @@
 
 Talk given by Jason Pearson on November 26th, 2019
 
-[Speaker Deck](https://github.com/kaeawc/droidcon-sf-2019-motionlayout) To be uploaded
+[Speaker Deck](https://speakerdeck.com/kaeawc/advanced-and-practical-motionlayout-droidcon-sf-2019)
 
 [Video Link on DroidCon Global](https://github.com/kaeawc/droidcon-sf-2019-motionlayout) To be uploaded
 

@@ -89,7 +89,7 @@ What makes animations great, the concepts of reentrant, continuous, and smooth.
 
 [Build a Responsive UI with ConstraintLayout](https://developer.android.com/training/constraint-layout)
 
-[onTouchUp with Mike Camell](https://mikescamell.com/motionlayoutquickie-ontouchup/)
+[onTouchUp with Mike Scamell](https://mikescamell.com/motionlayoutquickie-ontouchup/)
 
 <img src="https://mikescamell.com/content/images/2019/05/stop-1.gif" height="360" width="180" >
 

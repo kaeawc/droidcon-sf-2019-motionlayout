@@ -4,7 +4,7 @@ Talk given by Jason Pearson on November 26th, 2019
 
 [Speaker Deck](http://bit.ly/dcsf19-adv-motionlayout-slides)
 
-[Video Link on DroidCon Global](https://github.com/kaeawc/droidcon-sf-2019-motionlayout) To be uploaded
+[Video Link on DroidCon Global](https://www.droidcon.com/media-detail?video=380845332)
 
 ## Demos I created for this talk
 
